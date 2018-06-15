@@ -1,0 +1,11 @@
+Componente necesare:
+-unitati de  CD-uri vechi 
+-CNC Shield  V3 A4988x4 pentru comanda motoarelor Nema 17
+-2 motoare Nema
+-1 servomotor
+-placa de dezvoltare Arduino Uno
+-Sursa de alimentare
+-Fire de legatura
+
+
+
